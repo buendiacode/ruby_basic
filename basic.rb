@@ -6,7 +6,7 @@ puts list
 
 #2023/06/25/14:
 class Main 
-    attr_accessor :var
+    attr_accessor :name
 
     def initialize()
         @var 
